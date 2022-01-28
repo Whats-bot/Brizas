@@ -56,10 +56,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ianmsfvenom/Brizas-bot.git"
+    "url": "git+https://github.com/Whats-bot/Brizas.git"
   },
   "bugs": {
-    "url": "https://github.com/ianmsfvenom/Brizas-bot/issues"
+    "url": "https://github.com/Whats-bot/Brizas/issues"
   },
-  "homepage": "https://github.com/ianmsfvenom/Brizas-bot#readme"
+  "homepage": "https://github.com/Whats-bot/Brizas#readme"
 }
